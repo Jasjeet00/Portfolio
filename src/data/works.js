@@ -11,7 +11,7 @@ export default [
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/MUCEP-App/master/SignUp.PNG',
 		tech: ['React Native', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+		workUrl: 'https://github.com/Jasjeet00/MUCEP-App',
 	},
 	{
 		title: "Stock Viewer",
