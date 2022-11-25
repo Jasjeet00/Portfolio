@@ -18,7 +18,7 @@ export default [
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/Stock-Viewer/main/stock_viewer.jpg',
 		tech: ['Javascript', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+		workUrl: 'https://github.com/Jasjeet00/Stock-Viewer',
 	},
 	{
 		title: 'KingDomino Game ',
