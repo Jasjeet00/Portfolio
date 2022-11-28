@@ -1,8 +1,8 @@
 export default [
 	{
 		title: 'Resume',
-		imgUrl:'<https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/resume_screenshot.png">',
-			
+		imgUrl:
+			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/resume_screenshot.png',
 		tech: ['Resume'],
 		workUrl: 'https://drive.google.com/file/d/1DlEgxzqDFwYXNGN36xkDGx0VDZUBFleY/view?usp=sharing',
 	},
