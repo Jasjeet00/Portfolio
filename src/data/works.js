@@ -3,8 +3,8 @@ export default [
 		title: 'Resume',
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/Resume/main/Screenshot%202022-11-24%20at%2011.13.10%20PM.png',
-		tech: ['Resume-dark'],
-		workUrl: 'https://drive.google.com/file/d/1j7AnvY70qj5Vs4Ux9SVt6FuTDANLq93t/view?usp=sharing',
+		tech: ['Resume'],
+		workUrl: 'https://drive.google.com/file/d/1DlEgxzqDFwYXNGN36xkDGx0VDZUBFleY/view?usp=sharing',
 	},
 	{
 		title: "Radiology App",
