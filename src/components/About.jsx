@@ -8,7 +8,7 @@ function About() {
 			<div className="w-full md:w-6/12">
 				<SectionTitle>About Me</SectionTitle>
 				<p className="text-md text-gray-600 dark:text-gray-300">
-				I am a 3rd year Computer Science major and a Business minor student at Memorial University of Newfoundland, expected to graduate April 2024. I am a results driven person, with a strive to constantly improve and develop both personally and professionally&nbsp.
+				I am a 3rd year Computer Science major and a Business minor student at Memorial University of Newfoundland, expected to graduate April 2024. I am a results driven person, with a strive to constantly improve and develop both personally and professionally.
 				Interests - Football, Working out, Hiking, Travelling, Music, Podcasts.
 				</p>
 				<a
