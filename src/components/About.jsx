@@ -8,7 +8,7 @@ function About() {
 			<div className="w-full md:w-6/12">
 				<SectionTitle>About Me</SectionTitle>
 				<p className="text-md text-gray-600 dark:text-gray-300">
-				I am passionate about front-end development and creating vsually intriguing web designs, using my problem solving skills to come to
+				I am passionate about front-end development and creating visually intriguing web designs, using my problem solving skills to come to
 				unique solutions and learning new languages and software. I am currently working on a fitness website called fitness first and learning about
 				React Native. When I am not programming you can find me working out or listening to some good tunes.
 				
