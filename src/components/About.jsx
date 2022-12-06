@@ -8,8 +8,8 @@ function About() {
 			<div className="w-full md:w-6/12">
 				<SectionTitle>About Me</SectionTitle>
 				<p className="text-md text-gray-600 dark:text-gray-300">
-				I''m a 3rd year Computer Science Major and a minor in Business Administration at Memorial University of Newfoundland with a passion for front-end development.I am passionate about creating visually intriguing web designs using my problem-solving skills to come to unique solutions and learning new languages and software.
-				When I''m not programming you can find me working out or listening to music.
+				I am a 3rd year Computer Science Major and a minor in Business Administration at Memorial University of Newfoundland with a passion for front-end development.I am passionate about creating visually intriguing web designs using my problem-solving skills to come to unique solutions and learning new languages and software.
+				When I amm not programming you can find me working out or listening to music.
 				</p>
 				<a
 					href="mailto:jasjeets@mun.ca"
