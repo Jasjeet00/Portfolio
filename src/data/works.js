@@ -27,4 +27,11 @@ export default [
 		tech: ['Java'],
 		workUrl: 'https://github.com/Jasjeet00/Kingdomino-Game',
 	},
+	{
+		title: 'React Chat app ',
+		imgUrl:
+			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/resume_screenshot.png',
+		tech: ['React JS, Node JS, ChatEngine.io. '],
+		workUrl: 'https://github.com/Jasjeet00/Reactjs-chatapp',
+	},
 ];
