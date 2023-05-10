@@ -2,7 +2,7 @@ export default [
 	{
 		title: 'Resume',
 		imgUrl:
-			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/resume_screenshot.png',
+			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/Resume.jpg',
 		tech: ['Resume'],
 		workUrl: 'https://drive.google.com/file/d/1dwIe2M9RBDV9H9rxHXUeuPfmvWZ_GdKC/view?usp=share_link',
 	},
