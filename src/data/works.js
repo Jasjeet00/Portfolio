@@ -34,4 +34,11 @@ export default [
 		tech: ['React JS, Node JS, ChatEngine.io. '],
 		workUrl: 'https://github.com/Jasjeet00/Reactjs-chatapp',
 	},
+	{
+		title: 'Minecraft AI Settlement Generation ',
+		imgUrl:
+			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/minecraft.png',
+		tech: ['Python, Generative design Python client(GDPC(6.0)) '],
+		workUrl: '',
+	},
 ];
