@@ -38,7 +38,7 @@ export default [
 		title: 'Minecraft AI Settlement Generation ',
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/minecraft.png',
-		tech: ['Python, Generative design Python client(GDPC(6.0)) '],
+		tech: ['Python, Generative design Python client (GDPC(6.0)) '],
 		workUrl: '',
 	},
 	{
