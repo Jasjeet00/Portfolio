@@ -41,4 +41,11 @@ export default [
 		tech: ['Python, Generative design Python client(GDPC(6.0)) '],
 		workUrl: '',
 	},
+	{
+		title: 'Uber Clone ',
+		imgUrl:
+			'https://logodownload.org/wp-content/uploads/2015/05/uber-logo-3-1.png',
+		tech: ['Python, Generative design Python client(GDPC(6.0)) '],
+		workUrl: 'https://github.com/Jasjeet00/Uber-clone',
+	},
 ];
