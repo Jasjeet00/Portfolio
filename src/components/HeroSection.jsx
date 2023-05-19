@@ -8,7 +8,7 @@ function HeroSection() {
 					Hi, This is Jasjeet(Jay)
 				</h1>
 				<p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-				I am a 3rd year Computer Science major and a Business minor student at Memorial University of Newfoundland, expected to graduate April 2024. I am a results driven person, with a strive to constantly improve and develop both personally and professionally.{' '}
+				I am a 4th year Computer Science major and a Business minor student at Memorial University of Newfoundland and Labrador. I am a results driven person, with a strive to constantly improve and develop both personally and professionally.{' '}
 				</p>
 				<a
 					href="#works"
