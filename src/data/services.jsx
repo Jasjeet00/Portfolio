@@ -8,7 +8,7 @@ export default [
 		title: 'Technical Skills',
 		icon: <MdWeb className="w-full h-full" />,
 		description:
-			'HTML5, CSS3, Javascript, React JS, React Native, Bootstrap, C++, Java, Python, Node JS, Mongo DB, REST APIs, Git, AWS, Google Cloud,Responsive Design',
+			'HTML5, CSS3, Javascript, React JS, React Native, Bootstrap, C++, Java, Python, Node JS, Mongo DB, REST APIs, Git, AWS, Google Cloud, Responsive Design',
 	},
 	{
 		title: 'Soft Skills',
