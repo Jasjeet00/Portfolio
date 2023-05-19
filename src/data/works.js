@@ -24,7 +24,7 @@ export default [
 		title: 'KingDomino Game ',
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/Kingdomino-Game/main/KingDomino.png',
-		tech: ['Java'],
+		tech: ['Java, Git'],
 		workUrl: 'https://github.com/Jasjeet00/Kingdomino-Game',
 	},
 	{
