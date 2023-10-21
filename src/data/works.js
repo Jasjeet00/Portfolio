@@ -4,7 +4,7 @@ export default [
 		imgUrl:
 			'https://raw.githubusercontent.com/Jasjeet00/Portfolio-updated/main/Resume.jpg',
 		tech: ['Resume'],
-		workUrl: 'https://drive.google.com/file/d/1boPOi69VxbM_hLVn7qY8smIvQVorLNpk/view?usp=sharing',
+		workUrl: 'https://drive.google.com/file/d/1HT7jSLt4kp_tvArA_Q63rj_5E7kRQokb/view?usp=sharing',
 	},
 	{
 		title: "Radiology App",
